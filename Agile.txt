@@ -15,3 +15,4 @@ Responding to change         over following a plan
 Ceremonies 
 =============================================================
 planning, daily stand-up (scrum), review, retrospective, 
+
