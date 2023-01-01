@@ -17,3 +17,17 @@ Martket Share
 10% Google Cloud
 
 What is IAAS / PAAS / SAAS ?
+
+Azure Cloud Services
+=============================================================
+Compute   - Virtual machines, App Services, Containers, Functions
+Storage   - Blob  Containers, File shares, Queues, Tables
+Databases - Cosmos, SQL, MySQL, MariaDB
+Monitor, Management, etc.
+
+Azure DevOps
+=============================================================
+Wiki pages
+Boards - Sprints, Backlogs
+Repos - Branches, Pull Requests
+Pipelines - Build, Release
