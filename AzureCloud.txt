@@ -1,0 +1,19 @@
+Azure Cloud Computing
+
+Google Drive
+=============================================================
+UTD CS / Tech Topics 
+https://docs.google.com/presentation/d/1EGrDY0G2WEa80RYckqW91HiO5tcyQ8vpX-UDWYEFer4
+
+Cloud computing is a form of computing 
+in which networks, data storage, applications, security and development tools
+are all enabled via the Internet,
+as opposed to a local computer or an on-premise servers in the organization.
+
+Martket Share
+===================
+34% Amazon AWS
+21% Microsoft Azure
+10% Google Cloud
+
+What is IAAS / PAAS / SAAS ?
