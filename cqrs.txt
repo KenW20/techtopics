@@ -1,0 +1,6 @@
+Command Query Responsibility Segregation CQRS
+
+Google Drive
+=============================================================
+UTD CS / Tech Topics 
+https://docs.google.com/document/d/1JjGK7ZJ2r8JxKQpHlsUqvEhetvlit8LWEoM6FuZ08jI/edit?usp=share_link
