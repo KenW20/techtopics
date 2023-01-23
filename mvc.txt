@@ -1,0 +1,18 @@
+MVC
+Model View Controller
+
+Google Drive
+=============================================================
+UTD CS / Tech Topics 
+https://docs.google.com/presentation/d/1QHakQwdc8NduNJgC1_abHsi43ba7X3H3IiOs96_Hjb4
+
+Model
+* Application data
+
+View
+* Presents the model’s data to the user.
+
+Controller
+* Listens to events triggered by the view
+* Call a method on the model.
+* Model changed events triggers notification to update view
