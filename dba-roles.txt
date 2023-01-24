@@ -1,0 +1,10 @@
+DBA Roles
+Database Administration
+
+Google Drive
+=================================
+UTD CS / Tech Topics
+https://docs.google.com/presentation/d/1sqYQYKzW1mcdTx0rVFZWUNArbLMs6H3TeVULF72E2Ps/edit
+
+-Designs, implements, administers, and monitors data management systems
+-Ensures design, consistency, quality, and security
